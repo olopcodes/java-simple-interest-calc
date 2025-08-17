@@ -1,0 +1,17 @@
+[x] 1️⃣ Declare variables for principal amount, interest rate, and time period using double.
+[x] 2️⃣ Use Scanner to read input from the user.
+[x] 3️⃣ Perform the simple interest calculation using the formula.
+[x] 4️⃣ Display the result in a user-friendly format.
+[x] 5️⃣ Close the Scanner object after input handling.
+
+SI = (P × R × T) / 100
+
+Example =========
+Enter principal amount: 1000
+Enter annual interest rate (in percentage): 5
+Enter time period (in years): 3
+Simple Interest: $150.0
+
+[x]🔹 Allow the user to enter more than one calculation in a loop until they choose to exit.
+[x]🔹 Format the output to display only two decimal places using System.out.printf().
+[x]🔹 Add validation: Ensure the user does not enter negative values for principal, interest rate, or time.
